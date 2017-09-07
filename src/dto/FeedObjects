@@ -1,0 +1,82 @@
+package dto;
+
+import java.sql.Date;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "FeedObjects")
+public class FeedObjects {
+	
+	private Integer sno;
+	private String portal_group;
+	private Date date_of_epublish;
+	private String ministry_name;
+	private String organisation_type;
+	private String organisation_name;
+	private String product_category;
+	private Integer no_of_tenders;
+	private Integer value_of_tenders;
+	private Date tender_opening_date;
+	
+	public Integer getSno() {
+		return sno;
+	}
+	public void setSno(Integer sno) {
+		this.sno = sno;
+	}
+	public String getPortal_group() {
+		return portal_group;
+	}
+	public void setPortal_group(String portal_group) {
+		this.portal_group = portal_group;
+	}
+	public Date getDate_of_epublish() {
+		return date_of_epublish;
+	}
+	public void setDate_of_epublish(Date date_of_epublish) {
+		this.date_of_epublish = date_of_epublish;
+	}
+	public String getMinistry_name() {
+		return ministry_name;
+	}
+	public void setMinistry_name(String ministry_name) {
+		this.ministry_name = ministry_name;
+	}
+	public String getOrganisation_type() {
+		return organisation_type;
+	}
+	public void setOrganisation_type(String organisation_type) {
+		this.organisation_type = organisation_type;
+	}
+	public String getOrganisation_name() {
+		return organisation_name;
+	}
+	public void setOrganisation_name(String organisation_name) {
+		this.organisation_name = organisation_name;
+	}
+	public String getProduct_category() {
+		return product_category;
+	}
+	public void setProduct_category(String product_category) {
+		this.product_category = product_category;
+	}
+	public Integer getNo_of_tenders() {
+		return no_of_tenders;
+	}
+	public void setNo_of_tenders(Integer no_of_tenders) {
+		this.no_of_tenders = no_of_tenders;
+	}
+	public Integer getValue_of_tenders() {
+		return value_of_tenders;
+	}
+	public void setValue_of_tenders(Integer value_of_tenders) {
+		this.value_of_tenders = value_of_tenders;
+	}
+	public Date getTender_opening_date() {
+		return tender_opening_date;
+	}
+	public void setTender_opening_date(Date tender_opening_date) {
+		this.tender_opening_date = tender_opening_date;
+	}
+	
+}
