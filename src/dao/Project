@@ -1,0 +1,46 @@
+package dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+
+import dto.FeedObjects;
+
+
+public class Project {
+	
+	
+	public ArrayList<FeedObjects> GetFeeds(Connection connection) throws Exception
+	{
+		ArrayList<FeedObjects> feedData = new ArrayList<FeedObjects>();
+		try
+		{
+			//String uname = request.getParameter("uname");
+			PreparedStatement ps = connection.prepareStatement("SELECT * FROM active.tenderdetails ORDER BY sno ASC LIMIT 100");
+			//ps.setString(1,uname);
+			ResultSet rs = ps.executeQuery();
+			while(rs.next())
+			{
+				FeedObjects feedObject = new FeedObjects();
+				feedObject.setSno(rs.getInt("sno"));
+				feedObject.setPortal_group(rs.getString("Portal_Group"));
+				feedObject.setDate_of_epublish(rs.getDate("date_of_epublish"));
+				feedObject.setMinistry_name(rs.getString("ministry_name"));
+				feedObject.setOrganisation_type(rs.getString("organisation_type"));
+				feedObject.setOrganisation_name(rs.getString("organisation_name"));
+				feedObject.setProduct_category(rs.getString("product_category"));
+				feedObject.setNo_of_tenders(rs.getInt("no_of_tenders"));
+				feedObject.setValue_of_tenders(rs.getInt("value_of_tenders"));
+				feedObject.setTender_opening_date(rs.getDate("tender_opening_date"));
+				feedData.add(feedObject);
+			}
+			return feedData;
+		}
+		catch(Exception e)
+		{
+			throw e;
+		}
+	}
+	
+}
