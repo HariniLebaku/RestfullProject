@@ -1,0 +1,29 @@
+package dao;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class Database {
+	
+	public Connection Get_Connection() throws Exception
+	{
+		try
+		{
+		String connectionURL = "jdbc:postgresql://127.0.0.1:5433/tender";
+		Connection connection = null;
+		Class.forName("org.postgresql.Driver").newInstance();
+		connection = DriverManager.getConnection(connectionURL, "postgres", "admin");
+	    return connection;
+		}
+		catch (SQLException e)
+		{
+		throw e;	
+		}
+		catch (Exception e)
+		{
+		throw e;	
+		}
+	}
+
+}
