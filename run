@@ -1,1 +1,5 @@
-http://localhost:8080/RESTfulProject/REST/WebService/GetFeeds
+URL : http://localhost:8080/RESTfulProject/REST/WebService/GetFeeds
+
+Here RESTfulProject is the project name, REST is the web.xml servelt mapping name, WebService is REST API path and GetFeeds is the method name.
+
+Note: For checking POST URLs user Poster extension for Chrome and Firefox. 
