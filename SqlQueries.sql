@@ -11,3 +11,10 @@ CREATE TABLE active.tenderdetails
     value_of_tenders integer NOT NULL,
     tender_opening_date date
 );
+
+set datestyle to SQL,DMY;
+
+COPY active.tenderdetails(sno,"portal_group",date_of_epublish,"ministry_name","organisation_type","organisation_name","product_category",no_of_tenders,value_of_tenders,tender_opening_date)
+FROM 'D:\sample data.csv'
+WITH DELIMITER ','
+CSV HEADER;
