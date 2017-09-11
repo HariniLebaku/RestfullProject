@@ -1,0 +1,141 @@
+sno,portal_group,date_of_epublish,ministry_name,organisation_type,organisation_name,product_category,no_of_tenders,value_of_tenders,tender_opening_date
+1,CPP,14-11-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,2,200000,12-12-12
+2,CPP,07-11-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,5,250000,07-12-12
+3,CPP,07-10-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,8,300000,07-12-12
+4,CPP,07-09-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,11,350000,07-12-12
+5,CPP,07-09-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,14,400000,07-12-12
+6,CPP,07-08-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,17,450000,07-12-12
+7,CPP,07-08-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,20,500000,07-12-09
+8,CPP,07-12-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,23,550000,07-12-10
+9,CPP,07-07-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,26,600000,07-12-11
+10,CPP,07-07-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,31,650000,07-12-15
+11,CPP,14-12-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,36,700000,16-12-16
+12,CPP,14-06-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,41,750000,16-12-16
+13,CPP,27-06-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,46,800000,27-12-16
+14,CPP,28-05-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,51,850000,28-12-16
+15,CPP,12-04-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,56,900000,12-12-16
+16,CPP,03-01-15,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,61,950000,03-01-12
+17,CPP,14-12-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,66,1000000,16-12-10
+18,CPP,10-02-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,71,1050000,10-12-16
+19,CPP,29-01-14,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,76,1100000,29-12-11
+20,CPP,02-01-15,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,81,1150000,02-01-12
+21,CPP,07-12-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,102,200000,07-12-11
+22,CPP,07-01-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,124,250000,07-12-11
+23,CPP,07-12-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,147,300000,07-12-13
+24,CPP,07-12-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,171,350000,07-12-17
+25,CPP,07-07-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,196,400000,07-12-12
+26,CPP,07-07-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,222,450000,07-12-17
+27,CPP,07-07-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,249,500000,07-12-11
+28,CPP,07-03-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,277,550000,07-12-15
+29,CPP,07-03-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,306,600000,07-12-15
+30,CPP,07-03-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,336,650000,07-12-15
+31,CPP,07-12-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,367,700000,07-12-15
+32,CPP,07-05-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,399,750000,07-12-15
+33,CPP,07-05-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,432,800000,07-12-15
+34,CPP,07-05-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,466,850000,07-12-15
+35,CPP,07-05-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,501,900000,07-12-15
+36,CPP,07-12-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,537,950000,07-12-15
+37,CPP,07-12-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,574,1000000,07-12-15
+38,CPP,07-09-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,612,1050000,07-12-15
+39,CPP,07-09-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,651,1100000,07-12-15
+40,CPP,07-09-14,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,691,1150000,07-12-15
+41,CPP,04-01-15,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,51,26850,04-01-12
+42,CPP,07-12-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,52,28700,07-12-15
+43,CPP,07-12-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,53,30600,07-12-15
+44,CPP,07-12-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,54,32550,07-12-15
+45,CPP,07-12-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,55,34550,07-12-15
+46,CPP,07-12-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,56,2550,07-12-15
+47,CPP,07-12-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,57,2600,07-12-15
+48,CPP,07-01-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,58,2650,07-12-17
+49,CPP,07-01-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,59,4320,07-12-17
+50,CPP,07-01-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,60,4400,07-12-17
+51,CPP,14-01-14,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,61,4480,17-12-17
+52,CPP,07-11-15,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,62,4560,07-12-17
+53,CPP,07-11-15,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,63,4640,07-12-17
+54,CPP,07-11-15,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,64,4720,07-12-17
+55,CPP,07-10-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,65,4800,07-12-17
+56,CPP,07-10-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,66,4880,07-12-17
+57,CPP,07-10-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,67,4960,07-12-10
+58,CPP,07-10-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,68,5040,07-12-10
+59,CPP,07-09-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,69,5120,07-12-10
+60,CPP,07-08-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,89,5200,07-12-10
+61,CPP,07-08-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,109,5280,07-12-10
+62,CPP,07-07-15,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,129,5360,07-12-10
+63,CPP,07-07-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,149,5440,07-12-10
+64,CPP,07-07-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,169,5520,07-12-10
+65,CPP,07-07-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,189,7120,07-12-10
+66,MMP,07-07-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,209,8720,07-12-10
+67,MMP,07-12-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,229,10320,07-12-10
+68,MMP,07-12-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,249,11920,07-12-10
+69,MMP,07-03-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,269,13520,07-12-14
+70,MMP,07-03-15,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,289,15120,07-12-14
+71,MMP,16-12-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,2,200000,14-12-14
+72,MMP,07-12-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,5,250000,07-12-14
+73,MMP,07-06-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,8,300000,07-12-14
+74,MMP,07-06-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,11,350000,07-12-14
+75,MMP,07-06-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,14,400000,07-12-14
+76,MMP,07-09-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,17,450000,07-12-14
+77,MMP,07-09-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,20,500000,07-12-09
+78,MMP,07-05-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,23,550000,07-12-10
+79,MMP,07-04-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,26,600000,07-12-14
+80,MMP,07-04-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,31,650000,07-12-15
+81,MMP,16-04-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Coast Guard ,Miscellaneous Goods ,36,700000,14-12-14
+82,MMP,16-12-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,41,750000,14-12-14
+83,MMP,27-03-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,46,800000,27-12-14
+84,MMP,28-12-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,51,850000,28-12-14
+85,MMP,12-12-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,56,900000,12-12-14
+86,MMP,03-01-13,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,61,950000,03-01-12
+87,MMP,16-02-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,66,1000000,14-12-14
+88,MMP,10-02-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,71,1050000,10-12-14
+89,MMP,29-12-16,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,76,1100000,29-12-14
+90,MMP,02-01-13,Ministry_of_Defence,Central Govt. Ministry/Department ,Indian Air Force ,Food Products ,81,1150000,02-01-12
+91,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,102,200000,07-12-14
+92,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,124,250000,07-12-14
+93,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,147,300000,07-12-13
+94,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,171,350000,07-12-14
+95,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,196,400000,07-12-12
+96,MMP,07-08-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,222,450000,07-12-14
+97,MMP,07-08-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,249,500000,07-12-11
+98,MMP,07-08-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,277,550000,07-12-14
+99,MMP,07-08-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,306,600000,07-12-14
+100,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,336,650000,07-12-14
+101,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Civil Works,367,700000,07-12-14
+102,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,399,750000,07-12-14
+103,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,432,800000,07-12-14
+104,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,466,850000,07-12-14
+105,MMP,07-12-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,501,900000,07-12-14
+106,MMP,07-05-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,537,950000,07-12-09
+107,MMP,07-05-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,574,1000000,07-12-09
+108,MMP,07-05-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,612,1050000,07-12-09
+109,MMP,07-05-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,651,1100000,07-12-09
+110,MMP,07-05-16,Ministry_of_Petroleum,Public Sector Undertakings ,Western Coalfields Limited ,Miscellaneous Goods ,691,1150000,07-12-09
+111,MMP,04-01-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,51,26850,04-01-12
+112,MMP,07-12-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,52,28700,07-12-09
+113,MMP,07-12-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,53,30600,07-12-09
+114,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,54,32550,07-12-09
+115,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,55,34550,07-12-17
+116,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,56,2550,07-12-17
+117,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,57,2600,07-12-17
+118,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,58,2650,07-12-17
+119,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,59,4320,07-12-17
+120,MMP,07-10-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,60,4400,07-12-17
+121,MMP,16-12-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,61,4480,17-12-17
+122,MMP,07-12-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,62,4560,07-12-17
+123,MMP,07-12-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,63,4640,07-12-17
+124,MMP,07-12-16,Ministry_of_Oil,Central canara Bank,Betwa River Board,Food Products ,64,4720,07-12-17
+125,MMP,07-02-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,65,4800,07-12-17
+126,MMP,07-02-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,66,4880,07-12-13
+127,MMP,07-02-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,67,4960,07-12-13
+128,MMP,07-02-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,68,5040,07-12-13
+129,MMP,07-12-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,69,5120,07-12-13
+130,MMP,07-12-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,89,5200,07-12-13
+131,MMP,07-12-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,109,5280,07-12-13
+132,MMP,07-12-16,Ministry_of_Oil,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,129,5360,07-12-13
+133,MMP,07-01-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,149,5440,07-12-13
+134,MMP,07-01-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,169,5520,07-12-13
+135,MMP,07-01-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,189,7120,07-12-13
+136,MMP,07-01-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,209,8720,07-12-13
+137,MMP,07-01-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,229,10320,07-12-13
+138,MMP,07-12-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,249,11920,07-12-13
+139,MMP,07-12-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,269,13520,07-12-13
+140,MMP,07-12-16,Ministry_of_Agriculture,Public Sector Undertakings ,Betwa River Board,Electronic Components And Devices,289,15120,07-12-13
